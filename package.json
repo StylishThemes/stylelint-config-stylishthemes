@@ -11,5 +11,14 @@
   ],
   "dependencies": {
     "stylelint-config-standard": "*"
+  },
+  "devDependencies": {
+    "ver": "*"
+  },
+  "scripts": {
+    "test": "node -e \"require('.')\"",
+    "major": "npx ver -p major",
+    "minor": "npx ver -p minor",
+    "patch": "npx ver -p patch",
   }
 }
