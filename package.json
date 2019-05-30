@@ -1,0 +1,15 @@
+{
+  "name": "stylelint-config-stylishthemes",
+  "version": "1.0.0",
+  "description": "Stylelint config for StylishThemes",
+  "license": "CC-BY-SA-4.0",
+  "repository": "StylishThemes/stylelint-config-stylishthemes",
+  "homepage": "https://github.com/StylishThemes/stylelint-config-stylishthemes",
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "dependencies": {
+    "stylelint-config-standard": "*"
+  }
+}
