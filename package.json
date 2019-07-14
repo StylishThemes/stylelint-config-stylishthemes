@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-stylishthemes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stylelint config for StylishThemes",
   "license": "CC-BY-SA-4.0",
   "repository": "StylishThemes/stylelint-config-stylishthemes",
