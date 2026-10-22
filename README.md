@@ -1,3 +1,5 @@
+**Retired:** no longer maintained.
+
 # stylelint-config-stylishthemes
 
 ## Installation
